@@ -52,6 +52,12 @@ dan CSS.</p>
 </html>
 
 - Maka hasilnya akan seperti berikut
-![Screenshot (333)](https://github.com/roswanda11/lab2web/assets/115516632/f70dcb97-a8f8-4a4b-962b-0772746a3e85)
+![Screenshot 2023-10-07 220113](https://github.com/aasnovita114/lab2Web/assets/116045324/3db1ebb9-3db7-412a-b65b-60d6036af1f2)
+
+# Langkah 2
+
+## Mendeklarasikan CSS Internal
+
+
 
 
